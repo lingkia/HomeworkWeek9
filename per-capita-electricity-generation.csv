@@ -1,4 +1,4 @@
-Entity,Code,Year,Per capita electricity (kWh)
+Entity,Code,Year,perCapitaElectricity
 Afghanistan,AFG,2000,24.04955
 Afghanistan,AFG,2001,29.966528
 Afghanistan,AFG,2002,32.85674
@@ -1236,28 +1236,28 @@ Comoros,COM,2018,115.931274
 Comoros,COM,2019,126.42337
 Comoros,COM,2020,161.2567
 Comoros,COM,2021,170.39258
-Democratic Republic of the Congo,COG,2000,92.5325
-Democratic Republic of the Congo,COG,2001,101.41037
-Democratic Republic of the Congo,COG,2002,117.07598
-Democratic Republic of the Congo,COG,2003,116.79978
-Democratic Republic of the Congo,COG,2004,110.075645
-Democratic Republic of the Congo,COG,2005,114.35277
-Democratic Republic of the Congo,COG,2006,115.384865
-Democratic Republic of the Congo,COG,2007,101.10362
-Democratic Republic of the Congo,COG,2008,117.37069
-Democratic Republic of the Congo,COG,2009,122.14503
-Democratic Republic of the Congo,COG,2010,171.25282
-Democratic Republic of the Congo,COG,2011,270.49295
-Democratic Republic of the Congo,COG,2012,347.9545
-Democratic Republic of the Congo,COG,2013,341.75125
-Democratic Republic of the Congo,COG,2014,339.74637
-Democratic Republic of the Congo,COG,2015,527.21063
-Democratic Republic of the Congo,COG,2016,545.6126
-Democratic Republic of the Congo,COG,2017,536.486
-Democratic Republic of the Congo,COG,2018,545.8494
-Democratic Republic of the Congo,COG,2019,657.00476
-Democratic Republic of the Congo,COG,2020,671.67255
-Democratic Republic of the Congo,COG,2021,688.8499
+Republic of the Congo,COG,2000,92.5325
+Republic of the Congo,COG,2001,101.41037
+Republic of the Congo,COG,2002,117.07598
+Republic of the Congo,COG,2003,116.79978
+Republic of the Congo,COG,2004,110.075645
+Republic of the Congo,COG,2005,114.35277
+Republic of the Congo,COG,2006,115.384865
+Republic of the Congo,COG,2007,101.10362
+Republic of the Congo,COG,2008,117.37069
+Republic of the Congo,COG,2009,122.14503
+Republic of the Congo,COG,2010,171.25282
+Republic of the Congo,COG,2011,270.49295
+Republic of the Congo,COG,2012,347.9545
+Republic of the Congo,COG,2013,341.75125
+Republic of the Congo,COG,2014,339.74637
+Republic of the Congo,COG,2015,527.21063
+Republic of the Congo,COG,2016,545.6126
+Republic of the Congo,COG,2017,536.486
+Republic of the Congo,COG,2018,545.8494
+Republic of the Congo,COG,2019,657.00476
+Republic of the Congo,COG,2020,671.67255
+Republic of the Congo,COG,2021,688.8499
 Cook Islands,COK,2000,1256.2814
 Cook Islands,COK,2001,1305.483
 Cook Islands,COK,2002,1993.4879
@@ -1456,28 +1456,28 @@ Czechia,CZE,2019,8139.9834
 Czechia,CZE,2020,7610.899
 Czechia,CZE,2021,7966.132
 Czechia,CZE,2022,8110.3564
-Democratic Republic of Democratic Republic of the Congo,COD,2000,122.181175
-Democratic Republic of Democratic Republic of the Congo,COD,2001,117.94839
-Democratic Republic of Democratic Republic of the Congo,COD,2002,117.30073
-Democratic Republic of Democratic Republic of the Congo,COD,2003,114.837456
-Democratic Republic of Democratic Republic of the Congo,COD,2004,128.0657
-Democratic Republic of Democratic Republic of the Congo,COD,2005,129.61925
-Democratic Republic of Democratic Republic of the Congo,COD,2006,127.95119
-Democratic Republic of Democratic Republic of the Congo,COD,2007,128.87833
-Democratic Republic of Democratic Republic of the Congo,COD,2008,119.679245
-Democratic Republic of Democratic Republic of the Congo,COD,2009,120.584595
-Democratic Republic of Democratic Republic of the Congo,COD,2010,117.78659
-Democratic Republic of Democratic Republic of the Congo,COD,2011,113.7584
-Democratic Republic of Democratic Republic of the Congo,COD,2012,105.91867
-Democratic Republic of Democratic Republic of the Congo,COD,2013,111.08081
-Democratic Republic of Democratic Republic of the Congo,COD,2014,114.94617
-Democratic Republic of Democratic Republic of the Congo,COD,2015,112.38683
-Democratic Republic of Democratic Republic of the Congo,COD,2016,110.76866
-Democratic Republic of Democratic Republic of the Congo,COD,2017,111.884605
-Democratic Republic of Democratic Republic of the Congo,COD,2018,120.22412
-Democratic Republic of Democratic Republic of the Congo,COD,2019,123.238594
-Democratic Republic of Democratic Republic of the Congo,COD,2020,128.69781
-Democratic Republic of Democratic Republic of the Congo,COD,2021,115.126976
+Democratic Republic of the Congo,COD,2000,122.181175
+Democratic Republic of the Congo,COD,2001,117.94839
+Democratic Republic of the Congo,COD,2002,117.30073
+Democratic Republic of the Congo,COD,2003,114.837456
+Democratic Republic of the Congo,COD,2004,128.0657
+Democratic Republic of the Congo,COD,2005,129.61925
+Democratic Republic of the Congo,COD,2006,127.95119
+Democratic Republic of the Congo,COD,2007,128.87833
+Democratic Republic of the Congo,COD,2008,119.679245
+Democratic Republic of the Congo,COD,2009,120.584595
+Democratic Republic of the Congo,COD,2010,117.78659
+Democratic Republic of the Congo,COD,2011,113.7584
+Democratic Republic of the Congo,COD,2012,105.91867
+Democratic Republic of the Congo,COD,2013,111.08081
+Democratic Republic of the Congo,COD,2014,114.94617
+Democratic Republic of the Congo,COD,2015,112.38683
+Democratic Republic of the Congo,COD,2016,110.76866
+Democratic Republic of the Congo,COD,2017,111.884605
+Democratic Republic of the Congo,COD,2018,120.22412
+Democratic Republic of the Congo,COD,2019,123.238594
+Democratic Republic of the Congo,COD,2020,128.69781
+Democratic Republic of the Congo,COD,2021,115.126976
 Denmark,DNK,1985,5692.609
 Denmark,DNK,1986,6013.0645
 Denmark,DNK,1987,5757.9272
