@@ -1,0 +1,60 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 800,
+  "height": 550,
+  "title": "World Energy Consumption",
+  "data": {
+    "url": "./data/energy-consumption.csv"
+  },
+  "params": [
+    {
+      "name": "legend_point",
+      "select": {"type": "point", "fields": ["Category"]},
+      "bind": "legend"
+    }
+  ],
+  "mark": {
+    "type": "area"
+  },
+  "encoding": {
+    "x": {
+      "field": "Year",
+      "type": "ordinal",
+      "title": "Year"
+    },
+    "y":{
+      "field": "Energy Consumption",
+      "type": "quantitative",
+      "title": "Energy Consumption",
+      "stack": "zero",
+      "axis": {
+        "ticks": true 
+      }
+    },
+    "color":{
+      "field": "Category",
+      "title": "Energy Source",
+      "scale": {"scheme": "tealblues"}
+    },
+    "tooltip": [
+      {
+          "field": "Year", 
+          "title": "Year "
+      },
+      {
+          "field": "Category",
+          "title": "Energy Source "
+      },
+      {
+        "field": "Energy Consumption",
+        "title": "Energy Consumption "
+      }
+
+    ],
+    "opacity": {
+      "condition": {"param": "legend_point", "value": 1},
+      "value": 0.2
+    }
+  }
+
+}

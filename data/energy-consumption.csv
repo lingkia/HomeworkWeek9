@@ -1,0 +1,751 @@
+﻿Entity,Code,Year,Category,Energy Consumption
+World,OWID_WRL,1800,Other renewables,0
+World,OWID_WRL,1800,Modern Biofuels,0
+World,OWID_WRL,1800,Solar,0
+World,OWID_WRL,1800,Wind,0
+World,OWID_WRL,1800,Hyrdropower,0
+World,OWID_WRL,1800,Nuclear,0
+World,OWID_WRL,1800,Gas,0
+World,OWID_WRL,1800,Oil,0
+World,OWID_WRL,1800,Coal,97
+World,OWID_WRL,1800,Traditional Biomass,5556
+World,OWID_WRL,1810,Other renewables,0
+World,OWID_WRL,1810,Modern Biofuels,0
+World,OWID_WRL,1810,Solar,0
+World,OWID_WRL,1810,Wind,0
+World,OWID_WRL,1810,Hyrdropower,0
+World,OWID_WRL,1810,Nuclear,0
+World,OWID_WRL,1810,Gas,0
+World,OWID_WRL,1810,Oil,0
+World,OWID_WRL,1810,Coal,128
+World,OWID_WRL,1810,Traditional Biomass,5833
+World,OWID_WRL,1820,Other renewables,0
+World,OWID_WRL,1820,Modern Biofuels,0
+World,OWID_WRL,1820,Solar,0
+World,OWID_WRL,1820,Wind,0
+World,OWID_WRL,1820,Hyrdropower,0
+World,OWID_WRL,1820,Nuclear,0
+World,OWID_WRL,1820,Gas,0
+World,OWID_WRL,1820,Oil,0
+World,OWID_WRL,1820,Coal,153
+World,OWID_WRL,1820,Traditional Biomass,6111
+World,OWID_WRL,1830,Other renewables,0
+World,OWID_WRL,1830,Modern Biofuels,0
+World,OWID_WRL,1830,Solar,0
+World,OWID_WRL,1830,Wind,0
+World,OWID_WRL,1830,Hyrdropower,0
+World,OWID_WRL,1830,Nuclear,0
+World,OWID_WRL,1830,Gas,0
+World,OWID_WRL,1830,Oil,0
+World,OWID_WRL,1830,Coal,264
+World,OWID_WRL,1830,Traditional Biomass,6389
+World,OWID_WRL,1840,Other renewables,0
+World,OWID_WRL,1840,Modern Biofuels,0
+World,OWID_WRL,1840,Solar,0
+World,OWID_WRL,1840,Wind,0
+World,OWID_WRL,1840,Hyrdropower,0
+World,OWID_WRL,1840,Nuclear,0
+World,OWID_WRL,1840,Gas,0
+World,OWID_WRL,1840,Oil,0
+World,OWID_WRL,1840,Coal,356
+World,OWID_WRL,1840,Traditional Biomass,6944
+World,OWID_WRL,1850,Other renewables,0
+World,OWID_WRL,1850,Modern Biofuels,0
+World,OWID_WRL,1850,Solar,0
+World,OWID_WRL,1850,Wind,0
+World,OWID_WRL,1850,Hyrdropower,0
+World,OWID_WRL,1850,Nuclear,0
+World,OWID_WRL,1850,Gas,0
+World,OWID_WRL,1850,Oil,0
+World,OWID_WRL,1850,Coal,569
+World,OWID_WRL,1850,Traditional Biomass,7222
+World,OWID_WRL,1860,Other renewables,0
+World,OWID_WRL,1860,Modern Biofuels,0
+World,OWID_WRL,1860,Solar,0
+World,OWID_WRL,1860,Wind,0
+World,OWID_WRL,1860,Hyrdropower,0
+World,OWID_WRL,1860,Nuclear,0
+World,OWID_WRL,1860,Gas,0
+World,OWID_WRL,1860,Oil,0
+World,OWID_WRL,1860,Coal,1061
+World,OWID_WRL,1860,Traditional Biomass,6944
+World,OWID_WRL,1870,Other renewables,0
+World,OWID_WRL,1870,Modern Biofuels,0
+World,OWID_WRL,1870,Solar,0
+World,OWID_WRL,1870,Wind,0
+World,OWID_WRL,1870,Hyrdropower,0
+World,OWID_WRL,1870,Nuclear,0
+World,OWID_WRL,1870,Gas,0
+World,OWID_WRL,1870,Oil,6
+World,OWID_WRL,1870,Coal,1642
+World,OWID_WRL,1870,Traditional Biomass,6944
+World,OWID_WRL,1880,Other renewables,0
+World,OWID_WRL,1880,Modern Biofuels,0
+World,OWID_WRL,1880,Solar,0
+World,OWID_WRL,1880,Wind,0
+World,OWID_WRL,1880,Hyrdropower,0
+World,OWID_WRL,1880,Nuclear,0
+World,OWID_WRL,1880,Gas,0
+World,OWID_WRL,1880,Oil,33
+World,OWID_WRL,1880,Coal,2542
+World,OWID_WRL,1880,Traditional Biomass,6944
+World,OWID_WRL,1890,Other renewables,0
+World,OWID_WRL,1890,Modern Biofuels,0
+World,OWID_WRL,1890,Solar,0
+World,OWID_WRL,1890,Wind,0
+World,OWID_WRL,1890,Hyrdropower,38.88889
+World,OWID_WRL,1890,Nuclear,0
+World,OWID_WRL,1890,Gas,33
+World,OWID_WRL,1890,Oil,89
+World,OWID_WRL,1890,Coal,3856
+World,OWID_WRL,1890,Traditional Biomass,6667
+World,OWID_WRL,1900,Other renewables,0
+World,OWID_WRL,1900,Modern Biofuels,0
+World,OWID_WRL,1900,Solar,0
+World,OWID_WRL,1900,Wind,0
+World,OWID_WRL,1900,Hyrdropower,47.22222
+World,OWID_WRL,1900,Nuclear,0
+World,OWID_WRL,1900,Gas,64
+World,OWID_WRL,1900,Oil,181
+World,OWID_WRL,1900,Coal,5728
+World,OWID_WRL,1900,Traditional Biomass,6111
+World,OWID_WRL,1910,Other renewables,0
+World,OWID_WRL,1910,Modern Biofuels,0
+World,OWID_WRL,1910,Solar,0
+World,OWID_WRL,1910,Wind,0
+World,OWID_WRL,1910,Hyrdropower,91.666664
+World,OWID_WRL,1910,Nuclear,0
+World,OWID_WRL,1910,Gas,142
+World,OWID_WRL,1910,Oil,397
+World,OWID_WRL,1910,Coal,8656
+World,OWID_WRL,1910,Traditional Biomass,6389
+World,OWID_WRL,1920,Other renewables,0
+World,OWID_WRL,1920,Modern Biofuels,0
+World,OWID_WRL,1920,Solar,0
+World,OWID_WRL,1920,Wind,0
+World,OWID_WRL,1920,Hyrdropower,177.77777
+World,OWID_WRL,1920,Nuclear,0
+World,OWID_WRL,1920,Gas,233
+World,OWID_WRL,1920,Oil,397
+World,OWID_WRL,1920,Coal,9833
+World,OWID_WRL,1920,Traditional Biomass,6944
+World,OWID_WRL,1930,Other renewables,0
+World,OWID_WRL,1930,Modern Biofuels,0
+World,OWID_WRL,1930,Solar,0
+World,OWID_WRL,1930,Wind,0
+World,OWID_WRL,1930,Hyrdropower,363.8889
+World,OWID_WRL,1930,Nuclear,0
+World,OWID_WRL,1930,Gas,603
+World,OWID_WRL,1930,Oil,1756
+World,OWID_WRL,1930,Coal,10125
+World,OWID_WRL,1930,Traditional Biomass,7222
+World,OWID_WRL,1940,Other renewables,0
+World,OWID_WRL,1940,Modern Biofuels,0
+World,OWID_WRL,1940,Solar,0
+World,OWID_WRL,1940,Wind,0
+World,OWID_WRL,1940,Hyrdropower,533.3333
+World,OWID_WRL,1940,Nuclear,0
+World,OWID_WRL,1940,Gas,875
+World,OWID_WRL,1940,Oil,2653
+World,OWID_WRL,1940,Coal,11586
+World,OWID_WRL,1940,Traditional Biomass,7222
+World,OWID_WRL,1950,Other renewables,0
+World,OWID_WRL,1950,Modern Biofuels,0
+World,OWID_WRL,1950,Solar,0
+World,OWID_WRL,1950,Wind,0
+World,OWID_WRL,1950,Hyrdropower,925
+World,OWID_WRL,1950,Nuclear,0
+World,OWID_WRL,1950,Gas,2092
+World,OWID_WRL,1950,Oil,5444
+World,OWID_WRL,1950,Coal,12603
+World,OWID_WRL,1950,Traditional Biomass,7500
+World,OWID_WRL,1960,Other renewables,0
+World,OWID_WRL,1960,Modern Biofuels,0
+World,OWID_WRL,1960,Solar,0
+World,OWID_WRL,1960,Wind,0
+World,OWID_WRL,1960,Hyrdropower,1913.8889
+World,OWID_WRL,1960,Nuclear,0
+World,OWID_WRL,1960,Gas,4472
+World,OWID_WRL,1960,Oil,11097
+World,OWID_WRL,1960,Coal,15442
+World,OWID_WRL,1960,Traditional Biomass,8889
+World,OWID_WRL,1965,Other renewables,55.949085
+World,OWID_WRL,1965,Modern Biofuels,9.029861
+World,OWID_WRL,1965,Solar,0
+World,OWID_WRL,1965,Wind,0
+World,OWID_WRL,1965,Hyrdropower,2729.8865
+World,OWID_WRL,1965,Nuclear,72.469345
+World,OWID_WRL,1965,Gas,6303.8267
+World,OWID_WRL,1965,Oil,17996.53
+World,OWID_WRL,1965,Coal,16140.178
+World,OWID_WRL,1965,Traditional Biomass,9162
+World,OWID_WRL,1966,Other renewables,61.737606
+World,OWID_WRL,1966,Modern Biofuels,9.209844
+World,OWID_WRL,1966,Solar,0
+World,OWID_WRL,1966,Wind,0
+World,OWID_WRL,1966,Hyrdropower,2909.136
+World,OWID_WRL,1966,Nuclear,97.70497
+World,OWID_WRL,1966,Gas,6868.8228
+World,OWID_WRL,1966,Oil,19352.656
+World,OWID_WRL,1966,Coal,16324.094
+World,OWID_WRL,1966,Traditional Biomass,9218
+World,OWID_WRL,1967,Other renewables,62.35338
+World,OWID_WRL,1967,Modern Biofuels,9.383716
+World,OWID_WRL,1967,Solar,0
+World,OWID_WRL,1967,Wind,0
+World,OWID_WRL,1967,Hyrdropower,2973.9692
+World,OWID_WRL,1967,Nuclear,116.35517
+World,OWID_WRL,1967,Gas,7374.067
+World,OWID_WRL,1967,Oil,20744.31
+World,OWID_WRL,1967,Coal,16060.81
+World,OWID_WRL,1967,Traditional Biomass,9274
+World,OWID_WRL,1968,Other renewables,69.03191
+World,OWID_WRL,1968,Modern Biofuels,9.5538
+World,OWID_WRL,1968,Solar,0
+World,OWID_WRL,1968,Wind,0
+World,OWID_WRL,1968,Hyrdropower,3132.3052
+World,OWID_WRL,1968,Nuclear,147.87189
+World,OWID_WRL,1968,Gas,8044.3594
+World,OWID_WRL,1968,Oil,22499.12
+World,OWID_WRL,1968,Coal,16301.146
+World,OWID_WRL,1968,Traditional Biomass,9331
+World,OWID_WRL,1969,Other renewables,72.558716
+World,OWID_WRL,1969,Modern Biofuels,9.723981
+World,OWID_WRL,1969,Solar,0
+World,OWID_WRL,1969,Wind,0
+World,OWID_WRL,1969,Hyrdropower,3316.9805
+World,OWID_WRL,1969,Nuclear,175.31134
+World,OWID_WRL,1969,Gas,8833.446
+World,OWID_WRL,1969,Oil,24363.566
+World,OWID_WRL,1969,Coal,16798.734
+World,OWID_WRL,1969,Traditional Biomass,9387
+World,OWID_WRL,1970,Other renewables,80.33795
+World,OWID_WRL,1970,Modern Biofuels,13.501494
+World,OWID_WRL,1970,Solar,0
+World,OWID_WRL,1970,Wind,0
+World,OWID_WRL,1970,Hyrdropower,3473.4265
+World,OWID_WRL,1970,Nuclear,223.80801
+World,OWID_WRL,1970,Gas,9614.819
+World,OWID_WRL,1970,Oil,26520.377
+World,OWID_WRL,1970,Coal,17058.607
+World,OWID_WRL,1970,Traditional Biomass,9444
+World,OWID_WRL,1971,Other renewables,87.339066
+World,OWID_WRL,1971,Modern Biofuels,13.562146
+World,OWID_WRL,1971,Solar,0
+World,OWID_WRL,1971,Wind,0
+World,OWID_WRL,1971,Hyrdropower,3628.942
+World,OWID_WRL,1971,Nuclear,311.28723
+World,OWID_WRL,1971,Gas,10293.2
+World,OWID_WRL,1971,Oil,28021.105
+World,OWID_WRL,1971,Coal,16965.777
+World,OWID_WRL,1971,Traditional Biomass,9499
+World,OWID_WRL,1972,Other renewables,93.40202
+World,OWID_WRL,1972,Modern Biofuels,14.82311
+World,OWID_WRL,1972,Solar,0
+World,OWID_WRL,1972,Wind,0
+World,OWID_WRL,1972,Hyrdropower,3798.634
+World,OWID_WRL,1972,Nuclear,431.79926
+World,OWID_WRL,1972,Gas,10861.724
+World,OWID_WRL,1972,Oil,30139.71
+World,OWID_WRL,1972,Coal,17158.637
+World,OWID_WRL,1972,Traditional Biomass,9553
+World,OWID_WRL,1973,Other renewables,100.24631
+World,OWID_WRL,1973,Modern Biofuels,14.250557
+World,OWID_WRL,1973,Solar,0
+World,OWID_WRL,1973,Wind,0
+World,OWID_WRL,1973,Hyrdropower,3852.995
+World,OWID_WRL,1973,Nuclear,578.5737
+World,OWID_WRL,1973,Gas,11377.838
+World,OWID_WRL,1973,Oil,32560.594
+World,OWID_WRL,1973,Coal,17667.85
+World,OWID_WRL,1973,Traditional Biomass,9608
+World,OWID_WRL,1974,Other renewables,106.87296
+World,OWID_WRL,1974,Modern Biofuels,14.334716
+World,OWID_WRL,1974,Solar,0
+World,OWID_WRL,1974,Wind,0
+World,OWID_WRL,1974,Hyrdropower,4232.1367
+World,OWID_WRL,1974,Nuclear,756.48175
+World,OWID_WRL,1974,Gas,11659.864
+World,OWID_WRL,1974,Oil,32120.803
+World,OWID_WRL,1974,Coal,17682.05
+World,OWID_WRL,1974,Traditional Biomass,9663
+World,OWID_WRL,1975,Other renewables,108.1472
+World,OWID_WRL,1975,Modern Biofuels,13.688392
+World,OWID_WRL,1975,Solar,0
+World,OWID_WRL,1975,Wind,0
+World,OWID_WRL,1975,Hyrdropower,4284.3325
+World,OWID_WRL,1975,Nuclear,1049.4497
+World,OWID_WRL,1975,Gas,11659.741
+World,OWID_WRL,1975,Oil,31746.924
+World,OWID_WRL,1975,Coal,18024.537
+World,OWID_WRL,1975,Traditional Biomass,9718
+World,OWID_WRL,1976,Other renewables,120.57106
+World,OWID_WRL,1976,Modern Biofuels,13.751189
+World,OWID_WRL,1976,Solar,0
+World,OWID_WRL,1976,Wind,0
+World,OWID_WRL,1976,Hyrdropower,4267.3394
+World,OWID_WRL,1976,Nuclear,1227.7115
+World,OWID_WRL,1976,Gas,12354.144
+World,OWID_WRL,1976,Oil,33782.324
+World,OWID_WRL,1976,Coal,18688.486
+World,OWID_WRL,1976,Traditional Biomass,9774
+World,OWID_WRL,1977,Other renewables,127.266624
+World,OWID_WRL,1977,Modern Biofuels,18.318535
+World,OWID_WRL,1977,Solar,0
+World,OWID_WRL,1977,Wind,0
+World,OWID_WRL,1977,Hyrdropower,4410.859
+World,OWID_WRL,1977,Nuclear,1528.1375
+World,OWID_WRL,1977,Gas,12759.843
+World,OWID_WRL,1977,Oil,34960.312
+World,OWID_WRL,1977,Coal,19241.3
+World,OWID_WRL,1977,Traditional Biomass,9830
+World,OWID_WRL,1978,Other renewables,135.02682
+World,OWID_WRL,1978,Modern Biofuels,23.178774
+World,OWID_WRL,1978,Solar,0
+World,OWID_WRL,1978,Wind,0.008870971
+World,OWID_WRL,1978,Hyrdropower,4773.711
+World,OWID_WRL,1978,Nuclear,1775.7009
+World,OWID_WRL,1978,Gas,13293.952
+World,OWID_WRL,1978,Oil,36550.02
+World,OWID_WRL,1978,Coal,19457.904
+World,OWID_WRL,1978,Traditional Biomass,9886
+World,OWID_WRL,1979,Other renewables,144.51552
+World,OWID_WRL,1979,Modern Biofuels,28.023214
+World,OWID_WRL,1979,Solar,0
+World,OWID_WRL,1979,Wind,0.017741943
+World,OWID_WRL,1979,Hyrdropower,5012.647
+World,OWID_WRL,1979,Nuclear,1846.8246
+World,OWID_WRL,1979,Gas,14118.032
+World,OWID_WRL,1979,Oil,37114.258
+World,OWID_WRL,1979,Coal,20363.537
+World,OWID_WRL,1979,Traditional Biomass,9943
+World,OWID_WRL,1980,Other renewables,153.78857
+World,OWID_WRL,1980,Modern Biofuels,32.78612
+World,OWID_WRL,1980,Solar,0
+World,OWID_WRL,1980,Wind,0.031048333
+World,OWID_WRL,1980,Hyrdropower,5120.4688
+World,OWID_WRL,1980,Nuclear,2020.0956
+World,OWID_WRL,1980,Gas,14236.961
+World,OWID_WRL,1980,Oil,35525.133
+World,OWID_WRL,1980,Coal,20857.61
+World,OWID_WRL,1980,Traditional Biomass,10000
+World,OWID_WRL,1981,Other renewables,164.9076
+World,OWID_WRL,1981,Modern Biofuels,29.747923
+World,OWID_WRL,1981,Solar,0
+World,OWID_WRL,1981,Wind,0.031048333
+World,OWID_WRL,1981,Hyrdropower,5230.6284
+World,OWID_WRL,1981,Nuclear,2385.6428
+World,OWID_WRL,1981,Gas,14395.873
+World,OWID_WRL,1981,Oil,34268.04
+World,OWID_WRL,1981,Coal,21149.68
+World,OWID_WRL,1981,Traditional Biomass,10106
+World,OWID_WRL,1982,Other renewables,191.2329
+World,OWID_WRL,1982,Modern Biofuels,37.556244
+World,OWID_WRL,1982,Solar,0
+World,OWID_WRL,1982,Wind,0.054704163
+World,OWID_WRL,1982,Hyrdropower,5325.2656
+World,OWID_WRL,1982,Nuclear,2588.3174
+World,OWID_WRL,1982,Gas,14469.734
+World,OWID_WRL,1982,Oil,33208.07
+World,OWID_WRL,1982,Coal,21385.451
+World,OWID_WRL,1982,Traditional Biomass,10213
+World,OWID_WRL,1983,Other renewables,211.77058
+World,OWID_WRL,1983,Modern Biofuels,49.01924
+World,OWID_WRL,1983,Solar,0.008870971
+World,OWID_WRL,1983,Wind,0.09697445
+World,OWID_WRL,1983,Hyrdropower,5552.5425
+World,OWID_WRL,1983,Nuclear,2933.459
+World,OWID_WRL,1983,Gas,14703.833
+World,OWID_WRL,1983,Oil,32956.613
+World,OWID_WRL,1983,Coal,22046.346
+World,OWID_WRL,1983,Traditional Biomass,10321
+World,OWID_WRL,1984,Other renewables,236.32065
+World,OWID_WRL,1984,Modern Biofuels,57.806423
+World,OWID_WRL,1984,Solar,0.018661888
+World,OWID_WRL,1984,Wind,0.13234167
+World,OWID_WRL,1984,Hyrdropower,5740.62
+World,OWID_WRL,1984,Nuclear,3559.8567
+World,OWID_WRL,1984,Gas,15902.68
+World,OWID_WRL,1984,Oil,33680.13
+World,OWID_WRL,1984,Coal,23001.078
+World,OWID_WRL,1984,Traditional Biomass,10430
+World,OWID_WRL,1985,Other renewables,243.15495
+World,OWID_WRL,1985,Modern Biofuels,68.41009
+World,OWID_WRL,1985,Solar,0.03473722
+World,OWID_WRL,1985,Wind,0.18989833
+World,OWID_WRL,1985,Hyrdropower,5852.605
+World,OWID_WRL,1985,Nuclear,4224.8374
+World,OWID_WRL,1985,Gas,16262.222
+World,OWID_WRL,1985,Oil,33667.098
+World,OWID_WRL,1985,Coal,23987.826
+World,OWID_WRL,1985,Traditional Biomass,10541
+World,OWID_WRL,1986,Other renewables,263.68542
+World,OWID_WRL,1986,Modern Biofuels,84.20299
+World,OWID_WRL,1986,Solar,0.04489833
+World,OWID_WRL,1986,Wind,0.4105228
+World,OWID_WRL,1986,Hyrdropower,5931.9126
+World,OWID_WRL,1986,Nuclear,4525.0864
+World,OWID_WRL,1986,Gas,16421.11
+World,OWID_WRL,1986,Oil,34712.902
+World,OWID_WRL,1986,Coal,24258.035
+World,OWID_WRL,1986,Traditional Biomass,10653
+World,OWID_WRL,1987,Other renewables,282.4433
+World,OWID_WRL,1987,Modern Biofuels,85.33012
+World,OWID_WRL,1987,Solar,0.031353053
+World,OWID_WRL,1987,Wind,0.57772696
+World,OWID_WRL,1987,Hyrdropower,6012.1157
+World,OWID_WRL,1987,Nuclear,4922.331
+World,OWID_WRL,1987,Gas,17281.895
+World,OWID_WRL,1987,Oil,35404.36
+World,OWID_WRL,1987,Coal,25212.426
+World,OWID_WRL,1987,Traditional Biomass,10765
+World,OWID_WRL,1988,Other renewables,290.86093
+World,OWID_WRL,1988,Modern Biofuels,89.560196
+World,OWID_WRL,1988,Solar,0.030149443
+World,OWID_WRL,1988,Wind,0.980478
+World,OWID_WRL,1988,Hyrdropower,6204.8037
+World,OWID_WRL,1988,Nuclear,5366.448
+World,OWID_WRL,1988,Gas,18088.848
+World,OWID_WRL,1988,Oil,36551.46
+World,OWID_WRL,1988,Coal,25967.129
+World,OWID_WRL,1988,Traditional Biomass,10879
+World,OWID_WRL,1989,Other renewables,322.35043
+World,OWID_WRL,1989,Modern Biofuels,95.68924
+World,OWID_WRL,1989,Solar,0.77539134
+World,OWID_WRL,1989,Wind,7.835361
+World,OWID_WRL,1989,Hyrdropower,6172.975
+World,OWID_WRL,1989,Nuclear,5518.996
+World,OWID_WRL,1989,Gas,18888.676
+World,OWID_WRL,1989,Oil,37164.043
+World,OWID_WRL,1989,Coal,26215.674
+World,OWID_WRL,1989,Traditional Biomass,10995
+World,OWID_WRL,1990,Other renewables,361.19138
+World,OWID_WRL,1990,Modern Biofuels,106.64288
+World,OWID_WRL,1990,Solar,1.1483465
+World,OWID_WRL,1990,Wind,10.741176
+World,OWID_WRL,1990,Hyrdropower,6383.708
+World,OWID_WRL,1990,Nuclear,5676.7207
+World,OWID_WRL,1990,Gas,19481.125
+World,OWID_WRL,1990,Oil,37676.57
+World,OWID_WRL,1990,Coal,25906.625
+World,OWID_WRL,1990,Traditional Biomass,11111
+World,OWID_WRL,1991,Other renewables,376.81265
+World,OWID_WRL,1991,Modern Biofuels,110.728714
+World,OWID_WRL,1991,Solar,1.4942344
+World,OWID_WRL,1991,Wind,12.082573
+World,OWID_WRL,1991,Hyrdropower,6531.108
+World,OWID_WRL,1991,Nuclear,5948.311
+World,OWID_WRL,1991,Gas,19972.84
+World,OWID_WRL,1991,Oil,37663.043
+World,OWID_WRL,1991,Coal,25658.182
+World,OWID_WRL,1991,Traditional Biomass,11243
+World,OWID_WRL,1992,Other renewables,404.78116
+World,OWID_WRL,1992,Modern Biofuels,108.79633
+World,OWID_WRL,1992,Solar,1.379965
+World,OWID_WRL,1992,Wind,13.994874
+World,OWID_WRL,1992,Hyrdropower,6530.39
+World,OWID_WRL,1992,Nuclear,5993.4634
+World,OWID_WRL,1992,Gas,20063.484
+World,OWID_WRL,1992,Oil,38147.168
+World,OWID_WRL,1992,Coal,25558.422
+World,OWID_WRL,1992,Traditional Biomass,11376
+World,OWID_WRL,1993,Other renewables,418.23853
+World,OWID_WRL,1993,Modern Biofuels,114.44431
+World,OWID_WRL,1993,Solar,1.6460894
+World,OWID_WRL,1993,Wind,16.867165
+World,OWID_WRL,1993,Hyrdropower,6923.671
+World,OWID_WRL,1993,Nuclear,6199.8696
+World,OWID_WRL,1993,Gas,20265.482
+World,OWID_WRL,1993,Oil,37961.344
+World,OWID_WRL,1993,Coal,25688.932
+World,OWID_WRL,1993,Traditional Biomass,11511
+World,OWID_WRL,1994,Other renewables,434.65265
+World,OWID_WRL,1994,Modern Biofuels,124.175285
+World,OWID_WRL,1994,Solar,1.7652723
+World,OWID_WRL,1994,Wind,21.088448
+World,OWID_WRL,1994,Hyrdropower,6967.2666
+World,OWID_WRL,1994,Nuclear,6316.248
+World,OWID_WRL,1994,Gas,20389.613
+World,OWID_WRL,1994,Oil,38782.055
+World,OWID_WRL,1994,Coal,25788.928
+World,OWID_WRL,1994,Traditional Biomass,11647
+World,OWID_WRL,1995,Other renewables,454.25476
+World,OWID_WRL,1995,Modern Biofuels,131.20163
+World,OWID_WRL,1995,Solar,1.8891695
+World,OWID_WRL,1995,Wind,24.46058
+World,OWID_WRL,1995,Hyrdropower,7344.2354
+World,OWID_WRL,1995,Nuclear,6590.213
+World,OWID_WRL,1995,Gas,21104.494
+World,OWID_WRL,1995,Oil,39460.77
+World,OWID_WRL,1995,Coal,25966.357
+World,OWID_WRL,1995,Traditional Biomass,11785
+World,OWID_WRL,1996,Other renewables,466.32935
+World,OWID_WRL,1996,Modern Biofuels,125.91322
+World,OWID_WRL,1996,Solar,2.0676155
+World,OWID_WRL,1996,Wind,27.250431
+World,OWID_WRL,1996,Hyrdropower,7442.8306
+World,OWID_WRL,1996,Nuclear,6828.8057
+World,OWID_WRL,1996,Gas,22159.256
+World,OWID_WRL,1996,Oil,40334.64
+World,OWID_WRL,1996,Coal,26584.988
+World,OWID_WRL,1996,Traditional Biomass,11925
+World,OWID_WRL,1997,Other renewables,499.9418
+World,OWID_WRL,1997,Modern Biofuels,130.18306
+World,OWID_WRL,1997,Solar,2.2167242
+World,OWID_WRL,1997,Wind,35.567307
+World,OWID_WRL,1997,Hyrdropower,7573.9106
+World,OWID_WRL,1997,Nuclear,6781.843
+World,OWID_WRL,1997,Gas,22030.393
+World,OWID_WRL,1997,Oil,41453.445
+World,OWID_WRL,1997,Coal,26540.139
+World,OWID_WRL,1997,Traditional Biomass,12066
+World,OWID_WRL,1998,Other renewables,520.55
+World,OWID_WRL,1998,Modern Biofuels,133.53989
+World,OWID_WRL,1998,Solar,2.4006376
+World,OWID_WRL,1998,Wind,47.10265
+World,OWID_WRL,1998,Hyrdropower,7632.345
+World,OWID_WRL,1998,Nuclear,6898.552
+World,OWID_WRL,1998,Gas,22433.998
+World,OWID_WRL,1998,Oil,41670.18
+World,OWID_WRL,1998,Coal,26372.479
+World,OWID_WRL,1998,Traditional Biomass,12209
+World,OWID_WRL,1999,Other renewables,546.14624
+World,OWID_WRL,1999,Modern Biofuels,135.43088
+World,OWID_WRL,1999,Solar,2.6769266
+World,OWID_WRL,1999,Wind,62.767708
+World,OWID_WRL,1999,Hyrdropower,7690.094
+World,OWID_WRL,1999,Nuclear,7161.0522
+World,OWID_WRL,1999,Gas,23071.902
+World,OWID_WRL,1999,Oil,42383.22
+World,OWID_WRL,1999,Coal,26485.373
+World,OWID_WRL,1999,Traditional Biomass,12414
+World,OWID_WRL,2000,Other renewables,571.651
+World,OWID_WRL,2000,Modern Biofuels,132.91783
+World,OWID_WRL,2000,Solar,3.1327264
+World,OWID_WRL,2000,Wind,92.87796
+World,OWID_WRL,2000,Hyrdropower,7826.347
+World,OWID_WRL,2000,Nuclear,7322.6826
+World,OWID_WRL,2000,Gas,23994.258
+World,OWID_WRL,2000,Oil,42978.04
+World,OWID_WRL,2000,Coal,27434.627
+World,OWID_WRL,2000,Traditional Biomass,12500
+World,OWID_WRL,2001,Other renewables,593.69916
+World,OWID_WRL,2001,Modern Biofuels,131.35425
+World,OWID_WRL,2001,Solar,4.1827884
+World,OWID_WRL,2001,Wind,112.75258
+World,OWID_WRL,2001,Hyrdropower,7575.7827
+World,OWID_WRL,2001,Nuclear,7480.557
+World,OWID_WRL,2001,Gas,24316.832
+World,OWID_WRL,2001,Oil,43377.22
+World,OWID_WRL,2001,Coal,27864.945
+World,OWID_WRL,2001,Traditional Biomass,12500
+World,OWID_WRL,2002,Other renewables,639.19446
+World,OWID_WRL,2002,Modern Biofuels,159.00194
+World,OWID_WRL,2002,Solar,5.252374
+World,OWID_WRL,2002,Wind,152.89404
+World,OWID_WRL,2002,Hyrdropower,7665.752
+World,OWID_WRL,2002,Nuclear,7551.0767
+World,OWID_WRL,2002,Gas,25030.172
+World,OWID_WRL,2002,Oil,43676.043
+World,OWID_WRL,2002,Coal,28962.951
+World,OWID_WRL,2002,Traditional Biomass,12470
+World,OWID_WRL,2003,Other renewables,674.7783
+World,OWID_WRL,2003,Modern Biofuels,178.32689
+World,OWID_WRL,2003,Solar,6.541638
+World,OWID_WRL,2003,Wind,183.53348
+World,OWID_WRL,2003,Hyrdropower,7607.18
+World,OWID_WRL,2003,Nuclear,7350.6562
+World,OWID_WRL,2003,Gas,25729.617
+World,OWID_WRL,2003,Oil,44652.22
+World,OWID_WRL,2003,Coal,31506.16
+World,OWID_WRL,2003,Traditional Biomass,12329
+World,OWID_WRL,2004,Other renewables,729.37866
+World,OWID_WRL,2004,Modern Biofuels,210.21715
+World,OWID_WRL,2004,Solar,8.563793
+World,OWID_WRL,2004,Wind,246.72266
+World,OWID_WRL,2004,Hyrdropower,8116.5034
+World,OWID_WRL,2004,Nuclear,7635.7695
+World,OWID_WRL,2004,Gas,26721.139
+World,OWID_WRL,2004,Oil,46387.812
+World,OWID_WRL,2004,Coal,33685.52
+World,OWID_WRL,2004,Traditional Biomass,12160
+World,OWID_WRL,2005,Other renewables,789.99854
+World,OWID_WRL,2005,Modern Biofuels,246.52557
+World,OWID_WRL,2005,Solar,11.99108
+World,OWID_WRL,2005,Wind,299.59247
+World,OWID_WRL,2005,Hyrdropower,8336.344
+World,OWID_WRL,2005,Nuclear,7607.3535
+World,OWID_WRL,2005,Gas,27438.281
+World,OWID_WRL,2005,Oil,46887.754
+World,OWID_WRL,2005,Coal,36183.348
+World,OWID_WRL,2005,Traditional Biomass,12076
+World,OWID_WRL,2006,Other renewables,841.28894
+World,OWID_WRL,2006,Modern Biofuels,306.51932
+World,OWID_WRL,2006,Solar,16.39757
+World,OWID_WRL,2006,Wind,379.86954
+World,OWID_WRL,2006,Hyrdropower,8599.518
+World,OWID_WRL,2006,Nuclear,7653.7217
+World,OWID_WRL,2006,Gas,28161.41
+World,OWID_WRL,2006,Oil,47388.004
+World,OWID_WRL,2006,Coal,38068.867
+World,OWID_WRL,2006,Traditional Biomass,11993
+World,OWID_WRL,2007,Other renewables,913.1756
+World,OWID_WRL,2007,Modern Biofuels,397.3358
+World,OWID_WRL,2007,Solar,22.108496
+World,OWID_WRL,2007,Wind,484.96048
+World,OWID_WRL,2007,Hyrdropower,8687.896
+World,OWID_WRL,2007,Nuclear,7450.836
+World,OWID_WRL,2007,Gas,29315.736
+World,OWID_WRL,2007,Oil,47942.97
+World,OWID_WRL,2007,Coal,40231.242
+World,OWID_WRL,2007,Traditional Biomass,11911
+World,OWID_WRL,2008,Other renewables,976.6638
+World,OWID_WRL,2008,Modern Biofuels,538.46704
+World,OWID_WRL,2008,Solar,35.682663
+World,OWID_WRL,2008,Wind,622.1905
+World,OWID_WRL,2008,Hyrdropower,9137.472
+World,OWID_WRL,2008,Nuclear,7381.6016
+World,OWID_WRL,2008,Gas,30026.16
+World,OWID_WRL,2008,Oil,47537.797
+World,OWID_WRL,2008,Coal,40780.08
+World,OWID_WRL,2008,Traditional Biomass,11829
+World,OWID_WRL,2009,Other renewables,1049.1632
+World,OWID_WRL,2009,Modern Biofuels,610.6535
+World,OWID_WRL,2009,Solar,58.852226
+World,OWID_WRL,2009,Wind,773.0175
+World,OWID_WRL,2009,Hyrdropower,9066.387
+World,OWID_WRL,2009,Nuclear,7232.23
+World,OWID_WRL,2009,Gas,29405.35
+World,OWID_WRL,2009,Oil,46489.17
+World,OWID_WRL,2009,Coal,40144.2
+World,OWID_WRL,2009,Traditional Biomass,11747
+World,OWID_WRL,2010,Other renewables,1173.9039
+World,OWID_WRL,2010,Modern Biofuels,699.7631
+World,OWID_WRL,2010,Solar,94.12616
+World,OWID_WRL,2010,Wind,961.486
+World,OWID_WRL,2010,Hyrdropower,9520.602
+World,OWID_WRL,2010,Nuclear,7373.091
+World,OWID_WRL,2010,Gas,31593.695
+World,OWID_WRL,2010,Oil,47971.41
+World,OWID_WRL,2010,Coal,41937.48
+World,OWID_WRL,2010,Traditional Biomass,11667
+World,OWID_WRL,2011,Other renewables,1232.3865
+World,OWID_WRL,2011,Modern Biofuels,735.38153
+World,OWID_WRL,2011,Solar,181.10184
+World,OWID_WRL,2011,Wind,1215.6783
+World,OWID_WRL,2011,Hyrdropower,9635.082
+World,OWID_WRL,2011,Nuclear,7021.4863
+World,OWID_WRL,2011,Gas,32349.238
+World,OWID_WRL,2011,Oil,48312.62
+World,OWID_WRL,2011,Coal,43895.938
+World,OWID_WRL,2011,Traditional Biomass,11553
+World,OWID_WRL,2012,Other renewables,1334.975
+World,OWID_WRL,2012,Modern Biofuels,762.47174
+World,OWID_WRL,2012,Solar,278.36545
+World,OWID_WRL,2012,Wind,1454.6062
+World,OWID_WRL,2012,Hyrdropower,9985.715
+World,OWID_WRL,2012,Nuclear,6500.3687
+World,OWID_WRL,2012,Gas,33203.004
+World,OWID_WRL,2012,Oil,49113.688
+World,OWID_WRL,2012,Coal,44022.523
+World,OWID_WRL,2012,Traditional Biomass,11441
+World,OWID_WRL,2013,Other renewables,1442.059
+World,OWID_WRL,2013,Modern Biofuels,828.65063
+World,OWID_WRL,2013,Solar,377.72363
+World,OWID_WRL,2013,Wind,1732.0238
+World,OWID_WRL,2013,Hyrdropower,10324.202
+World,OWID_WRL,2013,Nuclear,6512.8066
+World,OWID_WRL,2013,Gas,33741.91
+World,OWID_WRL,2013,Oil,49590.31
+World,OWID_WRL,2013,Coal,44670.625
+World,OWID_WRL,2013,Traditional Biomass,11330
+World,OWID_WRL,2014,Other renewables,1560.9077
+World,OWID_WRL,2014,Modern Biofuels,878.8694
+World,OWID_WRL,2014,Solar,534.40076
+World,OWID_WRL,2014,Wind,1912.321
+World,OWID_WRL,2014,Hyrdropower,10535.74
+World,OWID_WRL,2014,Nuclear,6606.008
+World,OWID_WRL,2014,Gas,33977.36
+World,OWID_WRL,2014,Oil,49934.684
+World,OWID_WRL,2014,Coal,44858.12
+World,OWID_WRL,2014,Traditional Biomass,11220
+World,OWID_WRL,2015,Other renewables,1688.6459
+World,OWID_WRL,2015,Modern Biofuels,912.97784
+World,OWID_WRL,2015,Solar,689.34564
+World,OWID_WRL,2015,Wind,2238.8726
+World,OWID_WRL,2015,Hyrdropower,10447.261
+World,OWID_WRL,2015,Nuclear,6655.106
+World,OWID_WRL,2015,Gas,34788.023
+World,OWID_WRL,2015,Oil,50964.02
+World,OWID_WRL,2015,Coal,43669.83
+World,OWID_WRL,2015,Traditional Biomass,11111
+World,OWID_WRL,2016,Other renewables,1714.8402
+World,OWID_WRL,2016,Modern Biofuels,953.7291
+World,OWID_WRL,2016,Solar,879.17914
+World,OWID_WRL,2016,Wind,2575.6694
+World,OWID_WRL,2016,Hyrdropower,10746.731
+World,OWID_WRL,2016,Nuclear,6714.155
+World,OWID_WRL,2016,Gas,35592.57
+World,OWID_WRL,2016,Oil,51992.56
+World,OWID_WRL,2016,Coal,42715.14
+World,OWID_WRL,2016,Traditional Biomass,11111
+World,OWID_WRL,2017,Other renewables,1826.1881
+World,OWID_WRL,2017,Modern Biofuels,974.0694
+World,OWID_WRL,2017,Solar,1185.5515
+World,OWID_WRL,2017,Wind,3037.927
+World,OWID_WRL,2017,Hyrdropower,10834.706
+World,OWID_WRL,2017,Nuclear,6734.279
+World,OWID_WRL,2017,Gas,36521.11
+World,OWID_WRL,2017,Oil,52866.46
+World,OWID_WRL,2017,Coal,43129.867
+World,OWID_WRL,2017,Traditional Biomass,11111
+World,OWID_WRL,2018,Other renewables,1973.996
+World,OWID_WRL,2018,Modern Biofuels,1049.8936
+World,OWID_WRL,2018,Solar,1523.3044
+World,OWID_WRL,2018,Wind,3358.8267
+World,OWID_WRL,2018,Hyrdropower,11084.954
+World,OWID_WRL,2018,Nuclear,6855.408
+World,OWID_WRL,2018,Gas,38355.83
+World,OWID_WRL,2018,Oil,53405.137
+World,OWID_WRL,2018,Coal,43795.4
+World,OWID_WRL,2018,Traditional Biomass,11111
+World,OWID_WRL,2019,Other renewables,2072.3691
+World,OWID_WRL,2019,Modern Biofuels,1124.6016
+World,OWID_WRL,2019,Solar,1858.954
+World,OWID_WRL,2019,Wind,3744.7256
+World,OWID_WRL,2019,Hyrdropower,11185.189
+World,OWID_WRL,2019,Nuclear,7071.7817
+World,OWID_WRL,2019,Gas,39058.266
+World,OWID_WRL,2019,Oil,53512.844
+World,OWID_WRL,2019,Coal,43534.613
+World,OWID_WRL,2019,Traditional Biomass,11111
+World,OWID_WRL,2020,Other renewables,2182.6973
+World,OWID_WRL,2020,Modern Biofuels,1073.7583
+World,OWID_WRL,2020,Solar,2243.835
+World,OWID_WRL,2020,Wind,4186.181
+World,OWID_WRL,2020,Hyrdropower,11448.027
+World,OWID_WRL,2020,Nuclear,6776.866
+World,OWID_WRL,2020,Gas,38603.406
+World,OWID_WRL,2020,Oil,48609.645
+World,OWID_WRL,2020,Coal,42233.39
+World,OWID_WRL,2020,Traditional Biomass,11111
+World,OWID_WRL,2021,Other renewables,2335.3115
+World,OWID_WRL,2021,Modern Biofuels,1142.8717
+World,OWID_WRL,2021,Solar,2771.829
+World,OWID_WRL,2021,Wind,4851.594
+World,OWID_WRL,2021,Hyrdropower,11222.36
+World,OWID_WRL,2021,Nuclear,7037.069
+World,OWID_WRL,2021,Gas,40670.66
+World,OWID_WRL,2021,Oil,51349.656
+World,OWID_WRL,2021,Coal,44564.812
+World,OWID_WRL,2021,Traditional Biomass,11111
+World,OWID_WRL,2022,Other renewables,2413.8076
+World,OWID_WRL,2022,Modern Biofuels,1199.2067
+World,OWID_WRL,2022,Solar,3448.2373
+World,OWID_WRL,2022,Wind,5487.6
+World,OWID_WRL,2022,Hyrdropower,11299.816
+World,OWID_WRL,2022,Nuclear,6702.3394
+World,OWID_WRL,2022,Gas,39413.043
+World,OWID_WRL,2022,Oil,52969.59
+World,OWID_WRL,2022,Coal,44854.035
+World,OWID_WRL,2022,Traditional Biomass,11111

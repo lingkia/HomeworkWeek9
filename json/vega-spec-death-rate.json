@@ -1,0 +1,74 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "params": [
+      {
+        "name": "Death_Rate_Filter",
+        "value": 0,
+        "bind": {
+          "input": "range",
+          "min": 0,
+          "max": 30,
+          "step": 5,
+          "name": "Death Rate:  "
+        }
+      }
+    ],
+    "title": "Death Rate per Unit of Electricity Production (2021)",
+    "width": 1000,
+    "height": 550,
+    "data": {
+        "url": "./data/death-rates-from-energy-production-per-twh.csv"
+    },
+    "layer": [
+        {"mark": {"type": "bar"}
+    },
+        {
+        "mark": {
+            "type": "text",
+            "align": "left",
+            "baseline": "middle",
+            "dx": 3
+        },
+        "encoding": {
+            "text": {"field": "DeathRate", "type": "quantitative"}
+        }
+        }
+    ],
+    "transform": [
+        {"filter": {"not": {"field": "DeathRate", "equal": ""}}},
+        {"filter": "datum.DeathRate > Death_Rate_Filter"}
+    ],
+    "encoding": {
+        "y": {
+        "field": "Entity",
+        "type": "nominal",
+        "title": "Energy Type",
+        "sort": "DeathRate"
+        },
+        "x": {
+        "field": "DeathRate", 
+        "type": "quantitative",
+        "scale": {"domain": [0, 35]},
+        "axis": null
+        },
+        "color": {
+        "field": "Entity",
+        "type": "nominal",
+        "title": "Energy Type",
+        "scale": {"scheme": "tealblues"}
+        },
+        "tooltip": [
+            {
+                "field": "Entity", 
+                "type": "nominal", 
+                "title": "Energy Type "
+            },
+            {
+                "field": "DeathRate",
+                "type": "quantitative",
+                "title": "Death Rate "
+            }
+        ]
+    }
+  }
+  
