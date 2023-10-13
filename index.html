@@ -5,20 +5,99 @@
     <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-    
+    <link rel="stylesheet" type="text/css" href="./page.css" media="screen" />
+    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
   </head>
   <body>
-    <div id="electricityGenerationMap"></div>
+    <div class="title-container">
+      <img src="./images/Group 1.svg">
+    </div>
+    <div class=" odd-row">
+      <div class="energy-generation-map">
+        <div class="vega-title">
+          Per Capita Electricity Generation (2021)
+        </div>
+        <div id="electricityGenerationMap" class="vega-visual"></div>
+      </div>
+    </div>
+
+    <div class="even-row">
+      <div class="left-even-col">
+        <div class="vega-title">
+          Death Rate per Unit of Electricity Production (2021)
+        </div>
+        <div id="deathRate" class="vega-visual"></div>
+      </div>
+      <div class="right-even-col">
+        Because fossil fuels continue to account for a sizable amount of the world's energy production and because we anticipate that they will result in high death tolls, 
+        we cannot simply compare the total number of deaths from each source.
+        <br><br>
+        We contrast them instead based on the anticipated number of fatalities per unit of electricity. This is measured in terawatt hours. 
+        This covers instances involving the supply chain and fatalities from air pollution.Take a look at this comparison in the chart on the left. 
+        Biomass and fossil fuels result in more fatalities per unit of electricity than contemporary nuclear and renewable energy. Coal is by far the dirtiest fuel.
+        <br><br>
+        Note: The bar chart on the left can be interacted with by using the slider at the bottom of the chart. It allows you to select the range of the death rate and display accordingly.
+      </div>
+    </div>
+
+    <div class="odd-row">
+      <div class="left-odd-col">
+        Hello World
+      </div>
+      <div class="right-odd-col">
+        <div class="vega-title">
+          World Energy Consumption
+        </div>
+        <div id="energyConsumption" class="vega-visual"></div>
+      </div>
+    </div>
+
+    <div class="even-row">
+      <div class="left-even-col">
+        <div class="vega-title">
+          Investment in Renewable Energy, by Technology
+        </div>
+        <div id="investment" class="vega-visual"></div>
+      </div>
+      <div class="right-even-col">
+        Hello World
+      </div>
+    </div>
+
+    <div class="odd-row">
+      <div class="left-odd-col">
+        Hello World
+      </div>
+      <div class="right-odd-col">
+        <div class="vega-title">
+          Share of Energy Percentage from Low-Carbon Sources (by region)
+        </div>
+        <div id="shareOfPrimaryEnergy" class="vega-visual"></div>
+      </div>
+    </div>
+
+    <!-- <div class="row">
+      <div class="col-md-4">
+        Hello
+      </div>
+      <div class="col-md-8">
+        <div id="electricityGenerationMap"></div>
+      </div>
+    </div> -->
+    <!-- <div id="electricityGenerationMap"></div>
     <div id="deathRate"></div>
     <div id="energyConsumption"></div>
+    <div id="investment"></div>
+    <div id="shareOfPrimaryEnergy"></div> -->
 
 
     <script type="text/javascript">
 
       var spec = "./json/vega-spec-map.json";
-      var spec2 = "./json/vega-spec-death-rate.json"
-      var spec3 = "./json/vega-spec-energy-consumption.json"
+      var spec2 = "./json/vega-spec-death-rate.json";
+      var spec3 = "./json/vega-spec-energy-consumption.json";
+      var spec4 = "./json/vega-spec-investment.json";
+      var spec5 = "./json/vega-spec-share.json";
 
       vegaEmbed('#electricityGenerationMap', spec).then(function(result) {
         // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
@@ -29,8 +108,16 @@
       vegaEmbed('#energyConsumption', spec3).then(function(result) {
         // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
       }).catch(console.error);
+      vegaEmbed('#investment', spec4).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+      vegaEmbed('#shareOfPrimaryEnergy', spec5).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+      vegaEmbed('#shareOfPrimaryEnergy', spec5).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
     </script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
 
   </body>
 </html>

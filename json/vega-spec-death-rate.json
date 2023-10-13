@@ -1,5 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "background": "#45AD82",
     "params": [
       {
         "name": "Death_Rate_Filter",
@@ -13,62 +14,81 @@
         }
       }
     ],
-    "title": "Death Rate per Unit of Electricity Production (2021)",
-    "width": 1000,
-    "height": 550,
+    "width": "container",
+    "height": "container",
     "data": {
-        "url": "./data/death-rates-from-energy-production-per-twh.csv"
+      "url": "./data/death-rates-from-energy-production-per-twh.csv"
     },
     "layer": [
-        {"mark": {"type": "bar"}
-    },
-        {
+      {
+        "mark": {"type": "bar"}
+      },
+      {
         "mark": {
-            "type": "text",
-            "align": "left",
-            "baseline": "middle",
-            "dx": 3
+          "type": "text",
+          "align": "left",
+          "baseline": "middle",
+          "dx": 3
         },
         "encoding": {
-            "text": {"field": "DeathRate", "type": "quantitative"}
+          "text": {"field": "DeathRate", "type": "quantitative"}
         }
-        }
+      }
     ],
     "transform": [
-        {"filter": {"not": {"field": "DeathRate", "equal": ""}}},
-        {"filter": "datum.DeathRate > Death_Rate_Filter"}
+      {"filter": {"not": {"field": "DeathRate", "equal": ""}}},
+      {"filter": "datum.DeathRate > Death_Rate_Filter"}
     ],
     "encoding": {
-        "y": {
+      "y": {
         "field": "Entity",
         "type": "nominal",
         "title": "Energy Type",
-        "sort": "DeathRate"
-        },
-        "x": {
-        "field": "DeathRate", 
+        "sort": "DeathRate",
+        "axis": {
+          "labelColor": "white",
+          "titleColor": "white",
+          "labelFont": "poppins",
+          "titleFont": "poppins"
+        }
+      },
+      "x": {
+        "field": "DeathRate",
         "type": "quantitative",
         "scale": {"domain": [0, 35]},
         "axis": null
-        },
-        "color": {
+      },
+      "color": {
         "field": "Entity",
         "type": "nominal",
         "title": "Energy Type",
-        "scale": {"scheme": "tealblues"}
+        "scale": {"scheme": "tealblues"},
+        "legend": {
+          "labelColor": "white",
+          "titleColor": "white",
+          "labelFont": "poppins",
+          "titleFont": "poppins"
+        }
+      },
+      "tooltip": [
+        {
+          "field": "Entity",
+          "type": "nominal",
+          "title": "Energy Type "
         },
-        "tooltip": [
-            {
-                "field": "Entity", 
-                "type": "nominal", 
-                "title": "Energy Type "
-            },
-            {
-                "field": "DeathRate",
-                "type": "quantitative",
-                "title": "Death Rate "
-            }
-        ]
+        {
+          "field": "DeathRate",
+          "type": "quantitative",
+          "title": "Death Rate "
+        }
+      ]
+    },
+    "config": {
+      "style": {
+        "cell": {
+          "stroke": "transparent"
+        }
+      }
     }
   }
   

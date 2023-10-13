@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Per Capita Electricity Generation (2021)",
-  "width": 700,
-  "height": 550,
+  "background": "#0E7F6C",
+  "width": "container",
+  "height": "container",
   "projection": {"type": "equalEarth"},
   "layer": [
     {
@@ -32,6 +32,12 @@
             "type": "threshold",
             "domain": [1000, 2000, 3000, 4000, 5000, 6000, 7000, 8000],
             "scheme": "tealblues"
+          },
+          "legend":{
+            "labelColor":"white",
+            "titleColor":"white",
+            "labelFont": "poppins",
+            "titleFont": "poppins"
           }
         },
         "tooltip": [
@@ -60,6 +66,13 @@
       },
       "mark": {"type": "geoshape", "fill": null, "stroke": "lightgray"}
     }
-  ]
+  ],
+  "config": {
+    "style": {
+      "cell": {
+        "stroke": "transparent"
+      }
+    }
+  }
 
 }

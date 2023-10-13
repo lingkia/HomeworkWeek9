@@ -1,0 +1,78 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "./data/investment-in-renewable-energy-by-technology.csv"},
+    "height": "container",
+    "width": "container",
+    "mark": "bar",
+    "params": [{
+      "name": "type_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Marine energy", 
+          "Small hydropower",
+          "Geothermal energy",
+          "Biofuels",
+          "Biomass and waste-to-energy",
+          "Wind energy",
+          "Solar energy"
+        ],
+        "labels":[
+          "Show All",
+          "Marine energy", 
+          "Small hydropower",
+          "Geothermal energy",
+          "Biofuels",
+          "Biomass and waste-to-energy",
+          "Wind energy",
+          "Solar energy"
+        ],
+        "name": "Energy Type Selection: "
+      }
+
+    }],
+    "transform": [
+      {
+        "filter": "type_selection == null || datum['Energy Type'] == type_selection"
+      }
+    ],
+    "encoding": {
+      "x": {
+        "field": "Year",
+        "type": "ordinal",
+        "title": "Year"
+      },
+      "y": {
+        "type": "quantitative",
+        "field": "Investment",
+        "axis": {"format": ",.0f"}
+      },
+      "color": {
+        "field": "Energy Type",
+        "type": "nominal",
+        "scale": {
+          "domain": ["Marine energy", "Small hydropower","Geothermal energy","Biofuels","Biomass and waste-to-energy","Wind energy","Solar energy"],
+          "scheme": "inferno"
+        },
+        "title": "Energy Type"
+      },
+      "tooltip": [
+        {
+            "field": "Year", 
+            "title": "Year "
+        },
+        {
+            "field": "Energy Type",
+            "title": "Energy Type "
+        },
+        {
+          "field": "Investment",
+          "title": "Investment",
+          "format": ",.0f"
+
+        }
+      ]
+      
+    }
+  }

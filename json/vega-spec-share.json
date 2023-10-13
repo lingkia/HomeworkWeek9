@@ -1,0 +1,42 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "height": "container",
+    "width": "container",
+    "data": {"url": "./data/low-carbon-share-energy.csv"},
+    
+    "mark": {"type": "line", "point": true},  
+    "encoding": {
+      "x": {
+        "field": "Year",
+        "type": "ordinal",
+        "title": "Year"
+      },
+      "y": {
+        "field": "Low-carbon Energy",  
+        "type": "quantitative",
+        "title": "Low-carbon energy (% equivalent primary energy)"
+      },
+      "color": {
+        "field": "Entity",
+        "type": "nominal",
+        "title": "Region",
+        "scale": {"scheme": "tealblues"}
+      },
+      "tooltip": [
+        {
+            "field": "Year", 
+            "title": "Year "
+        },
+        {
+            "field": "Entity",
+            "title": "Region "
+        },
+        {
+          "field": "Low-carbon Energy",
+          "title": "Low-carbon energy (% equivalent primary energy)"
+
+        }
+      ]
+    }
+  }
+  
