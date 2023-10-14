@@ -47,11 +47,6 @@
             "title": "Country"
           },
           {
-            "field": "Year",
-            "type": "ordinal",
-            "title": "Year"
-          },
-          {
             "field": "perCapitaElectricity",
             "type": "quantitative",
             "title": "Per capita electricity (kWh)"
