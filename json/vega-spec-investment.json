@@ -1,6 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {"url": "./data/investment-in-renewable-energy-by-technology.csv"},
+    "background": "#45AD82",
     "height": "container",
     "width": "container",
     "mark": "bar",
@@ -41,21 +42,39 @@
       "x": {
         "field": "Year",
         "type": "ordinal",
-        "title": "Year"
+        "title": "Year",
+        "axis": {
+          "labelColor": "white",
+          "titleColor": "white",
+          "labelFont": "poppins",
+          "titleFont": "poppins"
+        }
       },
       "y": {
         "type": "quantitative",
         "field": "Investment",
-        "axis": {"format": ",.0f"}
+        "axis": {
+          "format": ",.0f",
+          "labelColor": "white",
+          "titleColor": "white",
+          "labelFont": "poppins",
+          "titleFont": "poppins"
+        }
       },
       "color": {
         "field": "Energy Type",
         "type": "nominal",
         "scale": {
           "domain": ["Marine energy", "Small hydropower","Geothermal energy","Biofuels","Biomass and waste-to-energy","Wind energy","Solar energy"],
-          "scheme": "inferno"
+          "scheme": "browns"
         },
-        "title": "Energy Type"
+        "title": "Energy Type",
+        "legend": {
+          "labelColor": "white",
+          "titleColor": "white",
+          "labelFont": "poppins",
+          "titleFont": "poppins"
+        }
       },
       "tooltip": [
         {

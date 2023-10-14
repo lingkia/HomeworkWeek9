@@ -62,7 +62,7 @@
         "field": "Entity",
         "type": "nominal",
         "title": "Energy Type",
-        "scale": {"scheme": "tealblues"},
+        "scale": {"scheme": "browns"},
         "legend": {
           "labelColor": "white",
           "titleColor": "white",

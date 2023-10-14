@@ -1,5 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "#0E7F6C",
   "width": "container",
   "height": "container",
   "data": {
@@ -19,18 +20,37 @@
     "x": {
       "field": "Year",
       "type": "ordinal",
-      "title": "Year"
+      "title": "Year",
+      "axis": {
+        "labelColor": "white",
+        "titleColor": "white",
+        "labelFont": "poppins",
+        "titleFont": "poppins",
+        "values": [1800, 1850, 1900, 1950, 2000, 2022]
+      }
     },
     "y":{
       "field": "Energy Consumption",
       "type": "quantitative",
-      "title": "Energy Consumption",
-      "stack": "zero"
+      "title": "Energy Consumption (TWh)",
+      "stack": "zero",
+      "axis": {
+        "labelColor": "white",
+        "titleColor": "white",
+        "labelFont": "poppins",
+        "titleFont": "poppins"
+      }
     },
     "color":{
       "field": "Category",
       "title": "Energy Source",
-      "scale": {"scheme": "tealblues"}
+      "scale": {"scheme": "browns"},
+      "legend": {
+        "labelColor": "white",
+        "titleColor": "white",
+        "labelFont": "poppins",
+        "titleFont": "poppins"
+      }
     },
     "tooltip": [
       {
@@ -50,6 +70,13 @@
     "opacity": {
       "condition": {"param": "legend_point", "value": 1},
       "value": 0.2
+    }
+  },
+  "config": {
+    "style": {
+      "cell": {
+        "stroke": "transparent"
+      }
     }
   }
 

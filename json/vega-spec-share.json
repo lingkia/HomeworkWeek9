@@ -1,5 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "background": "#0E7F6C",
     "height": "container",
     "width": "container",
     "data": {"url": "./data/low-carbon-share-energy.csv"},
@@ -9,18 +10,37 @@
       "x": {
         "field": "Year",
         "type": "ordinal",
-        "title": "Year"
+        "title": "Year",
+        "axis": {
+          "labelColor": "white",
+          "titleColor": "white",
+          "labelFont": "poppins",
+          "titleFont": "poppins",
+          "values": [1965, 1975, 1985, 1995, 2005, 2015, 2020, 2022]
+        }
       },
       "y": {
         "field": "Low-carbon Energy",  
         "type": "quantitative",
-        "title": "Low-carbon energy (% equivalent primary energy)"
+        "title": "Low-carbon energy (% equivalent primary energy)",
+        "axis": {
+          "labelColor": "white",
+          "titleColor": "white",
+          "labelFont": "poppins",
+          "titleFont": "poppins"
+        }
       },
       "color": {
         "field": "Entity",
         "type": "nominal",
         "title": "Region",
-        "scale": {"scheme": "tealblues"}
+        "scale": {"scheme": "browns"},
+        "legend": {
+          "labelColor": "white",
+          "titleColor": "white",
+          "labelFont": "poppins",
+          "titleFont": "poppins"
+        }
       },
       "tooltip": [
         {
@@ -37,6 +57,13 @@
 
         }
       ]
+    },
+    "config": {
+      "style": {
+        "cell": {
+          "stroke": "transparent"
+        }
+      }
     }
   }
   
